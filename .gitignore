@@ -1,0 +1,7 @@
+venv
+*.pyc
+staticfiles
+.env
+.idea/dataSources.local.xml
+.idea/dataSources/
+.idea/workspace.xml
